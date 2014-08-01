@@ -21,4 +21,4 @@ sudo hamachi attach $email
 echo "Ingresar un sobrenombre para el raspberry pi (nickname)"
 read nick
 sudo hamachi set-nick $nick
-echo "Finalizado Correctamente"
+echo "Hamachi Instalado Correctamente"
