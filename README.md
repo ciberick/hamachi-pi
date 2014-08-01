@@ -13,4 +13,4 @@ sudo ./hamachi.sh
 follow the on screen instructions and your raspberry pi will be added to your hamachi network.
 
 
-Need any help or wish to donate to me my email address is txt3rob@gmail.com
+
