@@ -1,7 +1,7 @@
-Install Hamachi on your Raspberry Pi
+Instalar Hamachi en Raspberry Pi
 ------------------------
 
-copy and paste the below
+Copiar y Pegar el siguiente codigo en la consola:
 
 ```
 sudo wget https://raw.github.com/txt3rob/hamachi-pi/master/hamachi.sh
@@ -9,8 +9,7 @@ sudo chmod 777 hamachi.sh
 sudo ./hamachi.sh
 ```
 
-
-follow the on screen instructions and your raspberry pi will be added to your hamachi network.
+Seguir las instrucciones y la raspberry pi se ​​añadirá a su red hamachi.
 
 
 
