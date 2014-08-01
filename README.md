@@ -4,7 +4,7 @@ Instalar Hamachi en Raspberry Pi
 Copiar y Pegar el siguiente codigo en la consola:
 
 ```
-sudo wget https://github.com/ciberick/hamachi-pi/blob/master/hamachi.sh
+sudo wget https://raw.githubusercontent.com/ciberick/hamachi-pi/master/hamachi.sh
 sudo chmod 777 hamachi.sh
 sudo ./hamachi.sh
 ```
