@@ -3,7 +3,7 @@ echo "Instalando Requerimientos"
 sudo apt-get update
 sudo apt-get -y install --fix-missing lsb lsb-core
 echo "Descargando Hamachi"
-sudo wget https://www.dropbox.com/s/ectspm1x1lno4sh/logmein-hamachi-2.1.0.101-armel.tgz
+sudo wget https://www.dropbox.com/s/yd471cw4u800tgq/logmein-hamachi-2.1.0.101-armel.tgz
 echo "Extrayendo Hamachi"
 tar xzvf logmein-hamachi-2.1.0.101-armel.tgz
 cd log*
